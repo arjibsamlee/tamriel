@@ -1,12 +1,18 @@
-Author : Megan Kane <arjibsamlee@yahoo.com>
-Date   : 2021-09-22
+Author : Megan Kane <arjibsamlee@yahoo.com> \n
+Date   : 2021-09-22 \n
 Purpose: Provide informtion on the Elder Scrolls games and their world, Tamriel, its location, races, and lore.
 
-To run the program you should start with the command: python3 tamriel.py
+The purpose of this program is to be able to look up information about the races, locations and games that are part of the Elder Scrolls game franchise. The base functionality is present so that even those unfamiliar with the franchise can explore the details of the games and the rich history and lore accumulated since the release of the first game in 1994.
 
-This will provide the information on what type of items you can get information on.
+To run the program you should start with the command:
 
-The optional command -r will allow you to use one of the keywords to look up information.
+python3 tamriel.py
+
+Doing so will welcome you to the program and provide the information on what type of items search for and will prompt you to use the optional command -r with one of the keywords to look up information.
+
+For example you can search for 'race'. This search will provide a list of the known races from the Elder Scrolls Universe and a little bit of information about them.
+
+Go on and give it a try!
 
 My procedure for creating the project
 

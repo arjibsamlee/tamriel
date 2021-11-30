@@ -35,6 +35,7 @@ def get_args():
 # --------------------------------------------------
 def main():
     """Make a jazz noise here"""
+    pd.set_option("max_colwidth", 150)
 
     args = get_args()
 
@@ -46,12 +47,14 @@ def main():
     typelist = []
     typelist = get_types(tamriel_data)
 
+
     if requested == 'all' or requested is None:
         print("Welcome to the Elder Scrolls Guide!")
         print(f"You can request information on {typelist}")
         print("just type -r followed by one of the keywords.")
     elif requested in typelist:
         req_items = get_items(requested, tamriel_data)
+        # req_items['description'] = req_items['description'].str.wrap(50)
         print("You have asked for all the entries that are listed as", requested, ".")
         print(req_items)
     else:
@@ -67,12 +70,23 @@ def get_types(tamriel_panda):
 
     headers = list(tamriel_panda.columns.values)
 
-    firstheader = headers[0]
+    header = headers[0]
 
-    datatypes = list(tamriel_panda[firstheader].unique())
+    datatypes = list(tamriel_panda[header].unique())
 
     return datatypes
 
+def get_names(tamriel_panda):
+    "This is grabbing the types of data available"
+    datatypes = []
+
+    headers = list(tamriel_panda.columns.values)
+
+    header = headers[2]
+
+    datatypes = list(tamriel_panda[header].unique())
+
+    return datatypes
 
 def get_items(searchterm, tamriel_panda):
     "This searches for all entries that are classified based on the search term."
@@ -88,6 +102,7 @@ def get_items(searchterm, tamriel_panda):
     items = tamriel_panda.loc[tamriel_panda[firstheader] == searchterm]
 
     return items
+
 
 # --------------------------------------------------
 if __name__ == '__main__':

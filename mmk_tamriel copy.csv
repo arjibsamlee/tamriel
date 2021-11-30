@@ -1,0 +1,43 @@
+type,subtype,name,description
+being,aedra,Akatosh,The chief deity of the Divines. The Dragon God of Time and the Lord of the Dragons. He is the first of the Gods.
+being,daedra,Molag Bal,One of the 17 Daedric Princes. Known also as the God of Scemes Harvester of Souls and Lord of Domination and Lord of Brutality. His personal realm is Coldharbor where he traps the souls of mortals.
+being,daedra,Flame atronoch,A race of elemental daedra native to the realm Infernace. They are summonable and are the source of the alchemical ingrediant fire salts.
+being,other,Dragon,Also known as Dovah or Dov. They are immortal intellegent and have an affinity for magic. They were worshiped as gods by the ancient Nords in Skyrim.
+being,other,Senche,Large felines found in Elswyr and Valenwood. Some are intellegent and capable of speech.
+being,other,Vampire,Undead bloodrinkers sensative to sun and flame.  Known also as the scion of Bal and nosferatu. There are 3 deseases which cause vampirism. The infection can be cured within 72 hours of infection.
+being,other,Werewolf,Individuals infected with lycanthropy. Can transform into bipedal wolf-like creatures. Called Hircine's Gift as their souls belong to Daedric Prince Hircine. This is a curable condition.
+being,other,Lamia,These intellegent magicka weilding beastfolk have the torso of a woman and the tail of a snake.
+being,other,Minotaur,Also know as man-bulls and bull-men. These Cyrodill natives are intellegent and have the body of a man and head of a bull.
+being,other,Sload,Also known as worms and slug-folk. This race of slug like beastfolk are cautions and careful.
+being,other,Lilmothiit,Foxlike beastfolk from the the Black Marsh. Believed to be extinct since the 2nd Era.
+being,other,Harpy,These carnivorous and intelligent beastfolk have the torso of a woman and the wings of a bird.
+being,other,Giant,Enormous humanoids with great strength and moderate intelligence they live simple semi-nomadic lives herding mammoths.
+being,other,Goblin,Also called Gobs. These agressive primitive humanoids can be found throught Tamirel.
+game,RPG,Elder Scrolls Arena,The first game in the Elder Scrolls released by Bethesda Softworks on 25 March 1994. Set in Tamriel in the 389th year of the 3rd Era.
+game,RPG,Elder Scrolls: Daggerfall,The 2nd game. Released by Bethesda  on 31/08/1996. Set in Hammerfell and High Rock in the 405th year of the 3rd Era.
+game,RPG,Elder scrolls III: Morrowind,The 3rd game. Released by Bethesda  on 01/05/2002. Set in Morrowind in the 427th year of the 3rd era.
+game,RPG,Elder Scrolls IV: Oblivion,The 4th game. Rreleased by Bethesda 20/03/2006.Set in Cyrodiil in the 433rd year of the 3rd era.
+game,RPG,Elder Scrolls V: Skyrim,The 5th game. Released by Bethesda on 11/11/2011. Set in Skyrim in 4th Era year 201. I
+game,MMORPG,Elder Scrolls Online,Also know as ESO. Released by ZeniMax on 4/4/2014 Set in the second era ESO starts in the 582nd year of the 2nd era.
+location,city,Winterhold,Capital of Winterhold Hold in Skyrim. Founded in 1st era and home to the College of Winterhold.
+location,continent,Tamriel,The primary landmass in the games and one of 4 continents on Nirn.
+location,province,Skyrim,The northernmost province of Tamriel. Currently home to the Nords.
+location,plane,Coldharbor,Plane of Oblivion created and ruled by Molag Bal.
+location,plane,Nirn,The planet that is the mortal plane. It floats in the void of Oblivion.
+location,realm,Mundus,The main realm of reality and was created by the eight Divines known as Aedra (anscestors).
+race,elf,Altmer,Playable race. Also known as High Elves.
+race,elf,Dunmer,Playable race. Also known as Dark Elves.
+race,elf,Bosmer,Playable race. Also known as Wood Elves.
+race,elf,Orsmer,Playable race. Also known as Orcs.
+race,elf,Falmer,Non-Playable race. Fallen elves that used to be Snow Elves.
+race,elf,Maormer,Non-Playable race. Also known as Sea-Elves.
+race,elf,Alyeid,Non-Playable race. Ancient elves.
+race,elf,Dwemer,Non-Playable race. Also known as Dwarves.
+race,elf,Chimer,Non-Playable race. These were cursed and became the Dunmer.
+race,man,Nord,Playable race. Humans from the North of Tamriel in Skyrim and Atmora. Very pale skinned.
+race,man,Imperial,Playable race. Humans from Cyrodiil.
+race,man,Redguard,Playable race. Humans from the mountains near Daggerfall. Can be very dark skinned.
+race,man,Breton,Playable race. Humans from High Rock. Said to have elven heritage.
+race,Beastfolk,Khajit,Playable race. Cat people from Elsweyr.
+race,Beastfolk,Argonian,Playable Race. Reptilian people from the Black Marsh.
+location,province,Vvardenfell,Island in Morrowind the location of the Red Mountain.
