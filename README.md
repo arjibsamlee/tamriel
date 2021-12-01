@@ -37,8 +37,9 @@ To run test.py use:
 
 
 ## Possible next steps for program:
-    -   make csv file more comprehensive
-    -   allow searching for particular term by addind a second optional argument -s --search where every row in the CSV with the term in it is returned.
-    -   add a -e --everything that prints the whole CSV
+-   make content of the csv file more comprehensive
+-   allow searching for particular term by addind a second optional argument -s --search where every row in the CSV with the term in it is returned.
+-   add a -e --everything that prints the whole CSV
+-   add the ability to have longer lore descriptions displayed upon request.
 
  ### Credit for content on Tamriel goes to The UESPWiki @ https://en.uesp.net/
