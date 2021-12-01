@@ -1,5 +1,5 @@
-Author : Megan Kane <arjibsamlee@yahoo.com> \n
-Date   : 2021-09-22 \n
+Author : Megan Kane <arjibsamlee@yahoo.com>
+Date   : 2021-09-22
 Purpose: Provide informtion on the Elder Scrolls games and their world, Tamriel, its location, races, and lore.
 
 The purpose of this program is to be able to look up information about the races, locations and games that are part of the Elder Scrolls game franchise. The base functionality is present so that even those unfamiliar with the franchise can explore the details of the games and the rich history and lore accumulated since the release of the first game in 1994.
